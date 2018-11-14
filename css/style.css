@@ -1,0 +1,19 @@
+.header, .hero, .body, .footer{
+	background-color: #A2AEEF;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border: 3px solid black;
+}
+.box{
+	background-color: purple;
+	min-height: 100px;
+	border: 2px solid yellow;
+	font-size: 30px;
+}
+.box_yellow{
+	background-color: yellow;
+	min-height: 100px;
+	border: 2px solid purple;
+	font-size: 30px;
+}
